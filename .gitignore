@@ -1,6 +1,0 @@
-*.db 
-*.exe 
-dist/ 
-build/ 
-backups/ 
-__pycache__/ 
